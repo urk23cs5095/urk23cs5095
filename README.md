@@ -1,7 +1,7 @@
-# Hi, I'm Dhanam S 👋
+# Hi, I'm Dhanam S 
 
-🎓 B.Tech Computer Science & Engineering — Karunya Institute of Technology and Sciences  
 💻 Software Developer | Java | Python | AI & Machine Learning  
+🎓 B.Tech Computer Science & Engineering — Karunya Institute of Technology and Sciences  
 📍 Coimbatore, India  
 📧 sdhanam2312@gmail.com  
 
@@ -12,20 +12,20 @@
 **Languages:** Java, Python, SQL  
 **Web:** HTML, CSS, JavaScript, Node.js  
 **AI/ML:** Machine Learning, Computer Vision, NLP  
-**Database:** MySQL  
+**Database:** MySQL, MongoDB  
 **Tools:** Git, GitHub, VS Code, Eclipse, MySQL Workbench  
 
 ---
 
 ## 🚀 Projects
 
-### 🔒 Child Safe Monitoring Application
-> AI-based application to detect harmful messages and assess risk levels using NLP and sentiment analysis.  
-> **Tech:** React, TypeScript, Node.js, MongoDB, Flutter, Claude AI (NLP), Firebase, Socket.IO
+### 🔒 [Child Safe Monitoring Application](https://github.com/urk23cs5095/childsafe_monitor)
+AI-powered platform that detects harmful messages like grooming and cyberbullying, and instantly alerts parents via push notifications.  
+**Tech:** React, Node.js, Flutter, Claude AI, Firebase, Socket.IO
 
-### 🏠 Hostel Management System
-> Desktop application to manage student registration, room allocation, and fee records.  
-> **Tech:** Java, MySQL
+### 🏠 [Hostel Management System](https://github.com/urk23cs5095/hostel-management-system)
+Java-based web application to manage student registration, room allocation, and leave management.  
+**Tech:** Java, MySQL, JDBC, HTML, CSS
 
 ---
 
@@ -35,4 +35,4 @@
 
 ---
 
-[![GitHub](https://img.shields.io/badge/GitHub-urk23cs5095-black?logo=github)](https://github.com/urk23cs5095)
+📫 Reach me at **sdhanam2312@gmail.com**
