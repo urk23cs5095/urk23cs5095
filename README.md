@@ -21,7 +21,7 @@
 
 ### 🔒 Child Safe Monitoring Application
 > AI-based application to detect harmful messages and assess risk levels using NLP and sentiment analysis.  
-> **Tech:** flutter, Machine Learning, NLP
+> **Tech:** React, TypeScript, Node.js, MongoDB, Flutter, Claude AI (NLP), Firebase, Socket.IO
 
 ### 🏠 Hostel Management System
 > Desktop application to manage student registration, room allocation, and fee records.  
